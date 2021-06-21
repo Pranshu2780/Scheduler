@@ -1,10 +1,6 @@
 # How to run
 
-Dependecies: For running the website one should have 
-
-Python
-Node
-NPM
+Dependecies: For running the website one should have Python, Node and npm
 
 # Features
 
